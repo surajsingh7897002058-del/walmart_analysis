@@ -5,22 +5,22 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 1. Set Up the Environment
 
-  Tools Used: Jupyter lab, Python, PostgreSQL
+        Tools Used: Jupyter lab, Python, PostgreSQL
 
-  Goal: Create a structured workspace with jupyter lab and organize project folders for smooth development and data handling.
+        Goal: Create a structured workspace with jupyter lab and organize project folders for smooth development and data handling.
 
 3. Install Required Libraries and Load Data
 
-  Libraries: Install necessary Python libraries using:
-    pip install pandas numpy sqlalchemy psycopg2
+        Libraries: Install necessary Python libraries using:
+        pip install pandas numpy sqlalchemy psycopg2
 
-  Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
+        Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
 5. Explore the Data
 
-  Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
+        Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
 
-  Analysis: Use functions like .info(), .describe(), and .head() to get a quick overview of the data structure and statistics.
+        Analysis: Use functions like .info(), .describe(), and .head() to get a quick overview of the data structure and statistics.
 
 7. Data Cleaning
 
